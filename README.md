@@ -158,3 +158,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 <a href="https://drive.google.com/uc?export=view&id=1oSpqwlqZ3nUJGcmUMa4EosxX-WVa2FDT"><img src="https://drive.google.com/uc?export=view&id=1oSpqwlqZ3nUJGcmUMa4EosxX-WVa2FDT" style="width: 200px; max-width: 100%; height: 200px" title="Click to enlarge picture" />
+    
+    
+<img src="https://drive.google.com/uc?export=view&id=1oSpqwlqZ3nUJGcmUMa4EosxX-WVa2FDT" width="48">
