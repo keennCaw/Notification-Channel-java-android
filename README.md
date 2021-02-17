@@ -4,10 +4,15 @@ Using Notification channels in displaying notifications
 Create Notification channels in a Application class
 Note: Do not forget to register it in the manifest
 
-/*   */
+
+IMPORTS
+
 import android.app.Application;
+
 import android.app.NotificationChannel;
+
 import android.app.NotificationManager;
+
 import android.os.Build;
 
 public class App extends Application {
@@ -65,16 +70,26 @@ public class App extends Application {
 
 Example how to use notification channels in the main activity:
 
+
+IMPORTS
+
 import androidx.appcompat.app.AppCompatActivity;
+
 import androidx.core.app.NotificationCompat;
+
 import androidx.core.app.NotificationManagerCompat;
 
+
 import android.app.Notification;
+
 import android.os.Bundle;
+
 import android.view.View;
+
 import android.widget.EditText;
 
 import static com.keennhoward.notificationchannelsjava.App.CHANNEL_1_ID;
+
 import static com.keennhoward.notificationchannelsjava.App.CHANNEL_2_ID;
 
 public class MainActivity extends AppCompatActivity {
