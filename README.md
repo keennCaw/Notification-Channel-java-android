@@ -4,6 +4,7 @@ Using Notification channels in displaying notifications
 Create Notification channels in a Application class
 Note: Do not forget to register it in the manifest
 
+/*   */
 import android.app.Application;
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
