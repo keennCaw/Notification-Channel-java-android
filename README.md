@@ -1,7 +1,7 @@
 # Notification-Channel-java-android
 Using Notification channels in displaying notifications
 
-OUTPUT:
+OUTPUT SIMPLE:
 
 <img src="https://drive.google.com/uc?export=view&id=1oP0VA1Laacsf8KD6RDRwO9otAq2rtNS6" width="200"> <img src="https://drive.google.com/uc?export=view&id=1oSpqwlqZ3nUJGcmUMa4EosxX-WVa2FDT" width="200">
 
